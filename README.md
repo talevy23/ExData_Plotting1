@@ -1,3 +1,7 @@
+## NOTES
+script assumes data file is in "data/household_power_consumption.txt".
+To reproduce, please put the file at this location.
+
 ## Introduction
 
 This assignment uses data from
