@@ -1,6 +1,6 @@
 ## NOTES
 script assumes data file is in "data/household_power_consumption.txt".
-To reproduce, please put the file at this location.
+To reproduce, please put the file at this location before running plot1(), plot2(), plot3() and plot4().
 
 ## Introduction
 
